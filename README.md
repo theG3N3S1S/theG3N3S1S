@@ -50,7 +50,6 @@
   <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo" />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
-  <br /><br />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
@@ -67,26 +66,20 @@
 
 <br />
 
-## 🔗 Connect with me
+### 🔗 Connect with me
 
-<br />
-
-<div align="left">
+<p align="center">
   <a href="mailto:qleger@orange.fr">
-    <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <img width="14" />
   <a href="https://www.youtube.com/@-genesis-328" target="_blank">
-    <img src="https://skillicons.dev/icons?i=yt" height="60" alt="youtube logo" />
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
   </a>
-  <img width="14" />
   <a href="https://www.instagram.com/quent1n_lgr/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="60" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-</div>
+</p>
 
-<br />
-<br />
 <br />
 
 <div align="center">
