@@ -1,12 +1,14 @@
 <div align="center">
-  <img src="[blob:https://fr.pinterest.com/9d468f64-f20a-49bd-a175-f1c1d3a55dd9g](https://fr.pinterest.com/pin/27303141484042416/)" width="100%" />
+  <img src="https://i.pinimg.com/1200x/be/49/5a/be495a9ae2bb6de49ac21e5f83f269b6.jpg" width="90%" style="border-radius: 10px;" />
 </div>
 
-<p align="center">
+<div align="center">
+  <h1>Hi, I'm Quentin 👋</h1>
+  <p><b>Computer Science Student & Machine Learning Enthusiast</b></p>
   <img src="https://img.shields.io/badge/STUDENT-CS%20Student-6018A3?style=flat-square" />
   <img src="https://img.shields.io/badge/FOCUS-Machine%20Learning-8A2BE2?style=flat-square" />
   <img src="https://img.shields.io/badge/LOCATION-France-indigo?style=flat-square" />
-</p>
+</div>
 
 ---
 
@@ -14,10 +16,10 @@
 
 <img align="right" height="150" src="https://i.pinimg.com/736x/05/b5/0c/05b50ccb3219f7ea00ec3d2c8d4b2d1f.jpg" style="border-radius: 10px; border: 2px solid #6018A3;" />
 
-* 👋 **Hi, I'm Quentin**, a Computer Science student in France (BUT).
-* 🧠 Currently focused on **Machine Learning** and Data Science.
-* 🛡️ Learning **Cybersecurity** and Python automation on the side.
-* 🏐 Passionate about **Volleyball**.
+* 🎓 **Academic Path**: Currently in BUT Informatique (France).
+* 🧠 **Interests**: Deeply focused on **Machine Learning** and Data Science.
+* 🛡️ **Skills**: Learning **Cybersecurity** and Python automation.
+* 🏐 **Life**: Big fan of **Volleyball**.
 
 ---
 
