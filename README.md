@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6018A3&height=200&section=header&text=Qu3nt1&fontSize=90&animation=fadeIn&fontAlignY=35" width="100%" />
-</div>
+
 
 <div align="center">
   <h2>🚀 CS Student | ML Enthusiast | Cybersecurity Learner</h2>
@@ -45,7 +43,6 @@
 ### 📊 Mes Stats (Le "Rank" Steam)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qu3nt1&show_icons=true&theme=tokyonight&count_private=true" alt="Github Stats" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qu3nt1&theme=tokyonight" alt="Streak Stats" height="170" />
 </div>
 
